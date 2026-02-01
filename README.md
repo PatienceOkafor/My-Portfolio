@@ -25,4 +25,3 @@ Log analysis and threat investigation
 
 Incident response workflows and containment strategies
 
-👉 View my full portfolio (PDF)
